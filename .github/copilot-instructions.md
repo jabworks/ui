@@ -9,7 +9,7 @@ This is a **shadcn registry** (`@jabworks/ui`) for distributing UI components vi
 ### TypeScript
 
 - **Strict mode enabled** ([tsconfig.json](../tsconfig.json#L7)) - no implicit any, strict null checks
-- Use `@/*` path alias for imports from project root ([tsconfig.json](../tsconfig.json#L20-L22))
+- Use `#/*` path alias for imports from project root ([tsconfig.json](../tsconfig.json#L20-L22))
 - Target ES2017+ features
 
 ### Linting & Formatting
